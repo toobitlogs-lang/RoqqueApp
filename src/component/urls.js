@@ -1,5 +1,6 @@
 // url.js
-const BASE_URL = "https://roqque-server-vert.vercel.app";
+const BASE_URL = "https://novah-roqu-api.vercel.app";
 
 export default BASE_URL;
+
 
